@@ -1,0 +1,6 @@
+situation,profile,predicted_risk,rank,on_list,outcome
+"Top of the list, had surgery","57M, BMI not recorded, prior consult, recent imaging",0.3529870569048575,3,True,Surgery
+"High risk, no surgery","78M, BMI not recorded, prior consult, recent imaging",0.24263513570488598,21,True,No surgery
+"On the cut-off line (rank 2,500)","75F, BMI not recorded, prior consult",0.03963051332499733,2500,True,No surgery
+Typical patient,"76M, BMI 32",0.012866189927846019,9994,False,No surgery
+"Missed: low risk, had surgery","77M, BMI not recorded",0.0028828162880222465,19677,False,Surgery
