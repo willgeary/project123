@@ -1,0 +1,20 @@
+{
+  "auc": 0.7323893996408488,
+  "brier": 0.020300157107506465,
+  "log_loss": 0.0944416707540645,
+  "observed_rate": 0.021565095566896827,
+  "mean_predicted": 0.021802397060347905,
+  "calibration_intercept": -0.11190494577800716,
+  "calibration_slope": 0.970508584162643,
+  "top_2500_capture": 0.41531322505800466,
+  "top_2500_rate": 0.0716,
+  "top_decile_capture": 0.37819025522041766,
+  "fit_seconds": 46.24813179200282,
+  "beta_sd": 0.25,
+  "divergences": 0,
+  "ppc_observed": 1878,
+  "ppc_interval": [
+    1780.445,
+    1974.5549999999998
+  ]
+}
